@@ -6,5 +6,11 @@
 3.  Output format: output the 12-hour time corresponding to the input time in one line. The format of the number part is the same as that of the input, followed by a space, followed by the string "AM" representing the morning or the string "PM" representing the afternoon. For example, "5:6 PM" means five-six in the afternoon. Note that in the English habit, 12:00 at noon is regarded as afternoon, so 12:00 in the 24-hour system is 12:0 PM in the 12-hour system, And 0 o'clock is considered the time of the next day, so it is 0:0 AM.
 
 ### For example:
-Input: 21:11 <br>
-Output: 9:11 PM
+Input: 
+```
+21:11
+``` 
+Output: 
+```
+9:11 PM
+```

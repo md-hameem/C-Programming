@@ -6,7 +6,11 @@
 3. Output format: in one line, output whether Jack is "Fishing" or "Drying" on the Nth day, and output "in day N".
 
 ### For example:
-Input:<br> 
-103<br>
-Output:<br>
+Input:
+```
+103
+```
+Output:
+```
 Fishing in day 103
+```

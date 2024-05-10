@@ -6,8 +6,12 @@
 3. Output format: in one line, output in the format of “M: n1 n2 ...”, where M is the maximum number of times, and “n1 n2 ...” are the most frequently occurring numbers, arranged in order from small to large. The numbers are separated by spaces, but no extra spaces are allowed at the end.
 
 ### For example:
-Input:<br>
-3<br>
-1234 2345 3456<br>
-Output:<br>
+Input:
+```
+3
+1234 2345 3456
+```
+Output:
+```
 3: 3 4
+```

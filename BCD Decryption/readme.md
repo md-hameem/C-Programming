@@ -6,7 +6,11 @@
 3. utput format: output number in digit reverse order.
 
 ### For example: 
-Input: <br>
-123 <br>
-Output: <br>
+Input:
+```
+123
+```
+Output:
+```
 321
+```
