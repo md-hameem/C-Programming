@@ -19,6 +19,8 @@ Welcome to the C Programming repository! This repository contains various C prog
 13. [Speak in Reverse](#speak-in-reverse)
 14. [Use Queue Data Structure](#use-queue-data-structure)
 15. [Recursive Method](#recursive-method)
+16. [Hashvalue](#hashvalue)
+17. [quicksort](#quicksort)
 
 ## Project Descriptions
 
