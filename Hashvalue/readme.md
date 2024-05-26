@@ -65,10 +65,6 @@ gcc -o hash_program main.c
 ./hash_program
 ```
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - The hashing algorithm uses linear probing for collision resolution.
